@@ -1,5 +1,5 @@
 <img src="https://github.com/RonenVeks/NCurses-Minesweeper/blob/main/assets/game_logo.png">
-<div align"center"><p>A CLI Minesweeper game made in C with the NCurses library</p></div>
+<div align="center"><p>A CLI Minesweeper game made in C with the NCurses library</p></div>
 <br/>
 
 ## About
