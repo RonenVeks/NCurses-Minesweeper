@@ -1,4 +1,4 @@
-<img src="https://github.com/RonenVeks/NCurses-Minesweeper/blob/main/assets/main_menu.png">
+<img src="https://github.com/RonenVeks/NCurses-Minesweeper/blob/main/assets/game_logo.png">
 <div align"center"><p>A CLI Minesweeper game made in C with the NCurses library</p></div>
 <br/>
 
@@ -27,3 +27,10 @@ git clone https://github.com/RonenVeks/NCurses-Minesweeper.git
 ``` bash
 ./minesweeper
 ```
+
+## How to play?
+<p>First, you will be greeted by the following menu, in which you'll have to choose your preferred size for the board using the arrows and Enter keys:</p>
+<img src="https://github.com/RonenVeks/NCurses-Minesweeper/blob/main/assets/main_menu.png">
+</br>
+<p>Inside the game, you'll be able to move the mark with the arrow keys, while instructions for other functions appear below the board:</p>
+<img src="https://github.com/RonenVeks/NCurses-Minesweeper/blob/main/assets/mid_game.png">
